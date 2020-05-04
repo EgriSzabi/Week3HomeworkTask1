@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AndroidFundamentals04</string>
+    <string name="movie_name">Movie name</string>
+    <string name="save">Save</string>
+    <string name="oscar_winner">Oscar winner</string>
+    <string name="budget">Budget($)</string>
+    <string name="search">Search movies...</string>
+    <string name="text">mentation that teaches you how to build an app, including how to build your first Android app, how to build layouts that adapt to different screens, how to save data in a local database, how to use device sensors and cameras, and much more.</string>
+    <string name="fructe">Fructe</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="phone">Phone</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+</resources>
